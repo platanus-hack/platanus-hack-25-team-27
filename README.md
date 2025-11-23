@@ -10,11 +10,8 @@ Recuerdo is a mobile application designed to help you remember the important det
 
 |               Home Screen                |            Capture Memory            |               People                |               Quiz                |
 | :--------------------------------------: | :----------------------------------: | :---------------------------------: | :-------------------------------: |
-| <img width="342" height="691" alt="image-1" src="https://github.com/user-attachments/assets/22c1855b-acbb-4d79-a0de-7392ac15d7d2" />
- | <img width="332" height="685" alt="image-2" src="https://github.com/user-attachments/assets/ff1b3f08-081a-4f63-9dc5-2c1dde33233d" />
- |<img width="344" height="687" alt="image-3" src="https://github.com/user-attachments/assets/391696fb-ec5b-4b9e-a87d-3a0f9743be85" />
- |<img width="338" height="630" alt="image-4" src="https://github.com/user-attachments/assets/90f7cebd-fe3d-4c37-9cb3-28618bcc7d8b" />
-|
+| <img width="342" height="691" alt="image-1" src="https://github.com/user-attachments/assets/22c1855b-acbb-4d79-a0de-7392ac15d7d2" />| <img width="332" height="685" alt="image-2" src="https://github.com/user-attachments/assets/ff1b3f08-081a-4f63-9dc5-2c1dde33233d" />| <img width="344" height="687" alt="image-3" src="https://github.com/user-attachments/assets/391696fb-ec5b-4b9e-a87d-3a0f9743be85" />| <img width="338" height="630" alt="image-4" src="https://github.com/user-attachments/assets/90f7cebd-fe3d-4c37-9cb3-28618bcc7d8b" />|
+
 
 ## 🚀 Key Features
 
